@@ -8,6 +8,8 @@ Smoke Testing
 
 Sanity Testing
 
+Test stratgies
+Create Test Plan
 
 
 
