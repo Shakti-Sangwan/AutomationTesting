@@ -6,3 +6,10 @@ Regression Testing
 
 Smoke Testing
 
+Sanity Testing
+
+
+
+
+Best regards,
+Shakti Sangwan
